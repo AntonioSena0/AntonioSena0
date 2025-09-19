@@ -3,7 +3,7 @@
 </div>
 
 <div style="display: flex";>
-<h1>Hello!! I'm Antonio</h1>
+<h1>Hello!! I'm Antonio Sena</h1>
 <h2>I'm 16 years old</h2>
 <h3>I’m currently studying systems development</h3>
 <br>
@@ -31,7 +31,7 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HakkaiDP&layout=compact&hide_border=false&langs_count=12&locale=en&bg_color=0d1117&icon_color=7203F7FF&text_color=fbf7f8&title_color=fbf7f8" height="200px" alt="languages graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioSena&layout=compact&hide_border=false&langs_count=12&locale=en&bg_color=0d1117&icon_color=7203F7FF&text_color=fbf7f8&title_color=fbf7f8" height="200px" alt="languages graph"/>
 
 </div>
 
@@ -79,7 +79,7 @@
   
 <h2>Additional Information:</h2>
 <img src="https://komarev.com/ghpvc/?username=HakkaiDP&color=8a2be2"><br>
-<img src="https://github-readme-stats.vercel.app/api?username=HakkaiDP&show_icons=true&layout=compact&hide_border=false&bg_color=0d1117&icon_color=8a2be2&text_color=FFFFFF&title_color=8a2be2"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AntonioSena&show_icons=true&layout=compact&hide_border=false&bg_color=0d1117&icon_color=8a2be2&text_color=FFFFFF&title_color=8a2be2"/>
 
 </div>
 </div>
@@ -88,7 +88,7 @@
 <br>
 
 <div align="center">
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/HakkaiDP/HakkaiDP/output/github-contribution-grid-snake.svg"/>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AntonioSena/AntonioSena/output/github-contribution-grid-snake.svg"/>
 </div>
 <hr> 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8b008b&section=footer">
