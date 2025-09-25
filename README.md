@@ -64,7 +64,3 @@
 ---
 
 ![snake eating my contributions](https://raw.githubusercontent.com/AntonioSena0/AntonioSena0/output/github-contribution-grid-snake.svg)
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8b008b&section=footer"/>
