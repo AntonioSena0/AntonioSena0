@@ -1,6 +1,6 @@
-#  Hello!! I'm Antonio Sena  👋
-##  I'm 16 years old  👨‍💻
-###  I’m currently studying systems development  📚
+#  Hello!! I'm Antonio Sena 
+##  I'm 16 years old 
+###  I’m currently studying systems development 
 
 ---
 
