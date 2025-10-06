@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Technologies I use and study
+## Technologies I use and study
 
 ### **Frontend:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ Frameworks (learning and already learned)
+## Frameworks (learning and already learned)
 
 ### **Frontend:**  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -36,7 +36,7 @@
 
 ---
 
-## 🗄️ Databases
+## Databases
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -44,7 +44,7 @@
 
 ---
 
-## 🧑‍💻 IDEs & Tools
+## IDEs & Tools
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeansIDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
@@ -56,7 +56,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioSena0&layout=compact&hide_border=false&langs_count=12&locale=en&bg_color=0d1117&icon_color=7203F7FF&text_color=fbf7f8&title_color=fbf7f8)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AntonioSena0&color=8a2be2)
