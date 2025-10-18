@@ -1,7 +1,6 @@
 # 👋 Hello! I'm Antonio Sena  
 
 ### Systems Development Student | 16 years old  
-### Passionate about technology, programming and design  
 
 ---
 
