@@ -69,7 +69,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=AntonioSena0&color=8a2be2)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioSena0&layout=compact&hide_border=false&langs_count=10&locale=en&bg_color=0d1117&text_color=fbf7f8&title_color=8a2be2)
