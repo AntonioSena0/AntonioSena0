@@ -62,19 +62,23 @@
 ---
 
 ## IDEs & Tools
-![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-6DB33F?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
 ## Automation & Integrations
 ![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-E34F26?style=for-the-badge&logo=googlegemini&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Perplexity AI](https://img.shields.io/badge/Perplexity%20AI-000000?style=for-the-badge&logo=perplexity&logoColor=white)
+![Manus AI](https://img.shields.io/badge/Manus%20AI-000000?style=for-the-badge&logo=robot&logoColor=white)
+![Emergent AI](https://img.shields.io/badge/Emergent%20AI-000000?style=for-the-badge&logo=energy&logoColor=white)
+![Gamma App](https://img.shields.io/badge/Gamma%20App-07405e?style=for-the-badge&logo=gamma&logoColor=white)
 
 ---
 
