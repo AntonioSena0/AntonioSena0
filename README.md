@@ -1,4 +1,4 @@
-<details open>
+<details>
 <summary><b>🇧🇷 Português</b></summary>
 
 # 👋 Olá! Eu sou o Antonio Sena
