@@ -40,7 +40,7 @@ Sou apaixonado por tecnologia e software. Adoro aprender novos frameworks, resol
 
 ---
 
-## 🚀 Projeto em Destaque
+## Projeto em Destaque
 ### 🛡️ [Custos](https://github.com/AntonioSena0/Custos)
 O **Custos** é um sistema robusto de autenticação e gerenciamento de usuários desenvolvido com foco em **Engenharia de Software** e **Práticas de POO (Programação Orientada a Objetos)**.
 * **Tecnologias principais:** TypeScript, TailwindCSS, Node.js.
@@ -49,7 +49,8 @@ O **Custos** é um sistema robusto de autenticação e gerenciamento de usuário
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-sena-375496390/)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniobsn2009@gmail.com)
+
+**E-mail:** antoniobsn2009@gmail.com
 
 </details>
 
@@ -95,7 +96,7 @@ I am passionate about technology and software development. I enjoy learning new 
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 ### 🛡️ [Custos](https://github.com/AntonioSena0/Custos)
 **Custos** is a robust authentication and user management system developed with a focus on **Software Engineering** and **OOP (Object-Oriented Programming) Practices**.
 * **Main technologies:** TypeScript, TailwindCSS, Node.js.
@@ -104,6 +105,7 @@ I am passionate about technology and software development. I enjoy learning new 
 
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-sena-375496390/)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniobsn2009@gmail.com)
+
+**E-mail:** antoniobsn2009@gmail.com
 
 </details>
