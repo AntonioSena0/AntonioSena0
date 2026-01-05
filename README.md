@@ -1,5 +1,5 @@
 <details open>
-<summary><b>🇧🇷 Português (Clique para expandir/recolher)</b></summary>
+<summary><b>🇧🇷 Português</b></summary>
 
 # 👋 Olá! Eu sou o Antonio Sena
 
@@ -55,7 +55,7 @@ O **Custos** é um sistema robusto de autenticação e gerenciamento de usuário
 </details>
 
 <details>
-<summary><b>🇺🇸 English (Click to expand/collapse)</b></summary>
+<summary><b>🇺🇸 English</b></summary>
 
 # 👋 Hi! I am Antonio Sena
 
