@@ -34,16 +34,19 @@ Sou apaixonado por tecnologia e software. Adoro aprender novos frameworks, resol
 
 ### **Ferramentas & IA**
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-E34F26?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ---
 
-## Projeto em Destaque
+## Projetos em Destaque
+### 🌕 [Orbit](https://github.com/AntonioSena0/Orbit)
+A **Orbit** é uma aplicação full stack de gerenciamento de tarefas com interface inspirada na exploração espacial, desenvolvida com Spring Boot e Next.js, focada em produtividade, segurança e boa experiência do usuário.
+* **Tecnologias principais:** Next.js, TypeScript, TailwindCSS, Spring Boot (Java) e Docker.
 ### 🛡️ [Custos](https://github.com/AntonioSena0/Custos)
 O **Custos** é um sistema robusto de autenticação e gerenciamento de usuários desenvolvido com foco em **Engenharia de Software** e **Práticas de POO (Programação Orientada a Objetos)**.
-* **Tecnologias principais:** TypeScript, TailwindCSS, Node.js.
+* **Tecnologias principais:** HTML, CSS, TailwindCSS, TypeScript.
 
 ---
 
@@ -90,16 +93,19 @@ I am passionate about technology and software development. I enjoy learning new 
 
 ### **Tools & AI**
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-E34F26?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ---
 
-## Featured Project
+## Featured Projects
+### 🌕 [Orbit](https://github.com/AntonioSena0/Orbit)
+**Orbit** is a full-stack task management application with a space exploration-inspired interface. Developed with Spring Boot and Next.js, it focuses on productivity, security, and a seamless user experience.
 ### 🛡️ [Custos](https://github.com/AntonioSena0/Custos)
+* **Main technologies:** Next.js, TypeScript, TailwindCSS, Spring Boot (Java) and Docker.
 **Custos** is a robust authentication and user management system developed with a focus on **Software Engineering** and **OOP (Object-Oriented Programming) Practices**.
-* **Main technologies:** TypeScript, TailwindCSS, Node.js.
+* **Main technologies:** HTML, CSS, TailwindCSS and TypeScript.
 
 ---
 
