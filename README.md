@@ -42,7 +42,7 @@ Sou apaixonado por tecnologia e software. Adoro aprender novos frameworks, resol
 
 ## Projetos em Destaque
 ### 🌕 [Orbit](https://github.com/AntonioSena0/Orbit)
-A **Orbit** é uma aplicação full stack de gerenciamento de tarefas com interface inspirada na exploração espacial, desenvolvida com Spring Boot e Next.js, focada em produtividade, segurança e boa experiência do usuário.
+O **Orbit** é uma aplicação full stack de gerenciamento de tarefas com interface inspirada na exploração espacial, desenvolvida com Spring Boot e Next.js, focada em produtividade, segurança e boa experiência do usuário.
 * **Tecnologias principais:** Next.js, TypeScript, TailwindCSS, Spring Boot (Java) e Docker.
 ### 🛡️ [Custos](https://github.com/AntonioSena0/Custos)
 O **Custos** é um sistema robusto de autenticação e gerenciamento de usuários desenvolvido com foco em **Engenharia de Software** e **Práticas de POO (Programação Orientada a Objetos)**.
