@@ -40,6 +40,15 @@ Sou apaixonado por tecnologia e software. Adoro aprender novos frameworks, resol
 
 ---
 
+## STATUS
+
+<div>
+  <img height="140em" src="https://github-readme-stats-one-bice.vercel.app/api?username=AntonioSena0&show_icons=true&theme=dracula">
+  <img height="140em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AntonioSena0&layout=compact&langs_count=16&theme=dracula">
+</div>
+
+---
+
 ## Projetos em Destaque
 ### 🌕 [Orbit](https://github.com/AntonioSena0/Orbit)
 O **Orbit** é uma aplicação full stack de gerenciamento de tarefas com interface inspirada na exploração espacial, desenvolvida com Spring Boot e Next.js, focada em produtividade, segurança e boa experiência do usuário.
@@ -96,6 +105,15 @@ I am passionate about technology and software development. I enjoy learning new 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-E34F26?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+---
+
+## STATS
+
+<div>
+  <img height="140em" src="https://github-readme-stats-one-bice.vercel.app/api?username=AntonioSena0&show_icons=true&theme=dracula">
+  <img height="140em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AntonioSena0&layout=compact&langs_count=16&theme=dracula">
+</div>
 
 ---
 
