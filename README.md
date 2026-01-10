@@ -43,8 +43,8 @@ Sou apaixonado por tecnologia e software. Adoro aprender novos frameworks, resol
 ## STATUS
 
 <div>
-  <img height="140em" src="https://github-readme-stats-one-bice.vercel.app/api?username=AntonioSena0&show_icons=true&theme=dracula">
-  <img height="140em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AntonioSena0&layout=compact&langs_count=16&theme=dracula">
+  <img height="140em" src="https://github-readme-stats-one-bice.vercel.app/api?username=AntonioSena0&show_icons=true&theme=dark">
+  <img height="140em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AntonioSena0&layout=compact&langs_count=16&theme=dark">
 </div>
 
 ---
@@ -111,8 +111,8 @@ I am passionate about technology and software development. I enjoy learning new 
 ## STATS
 
 <div>
-  <img height="140em" src="https://github-readme-stats-one-bice.vercel.app/api?username=AntonioSena0&show_icons=true&theme=dracula">
-  <img height="140em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AntonioSena0&layout=compact&langs_count=16&theme=dracula">
+  <img height="140em" src="https://github-readme-stats-one-bice.vercel.app/api?username=AntonioSena0&show_icons=true&theme=dark">
+  <img height="140em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AntonioSena0&layout=compact&langs_count=16&theme=dark">
 </div>
 
 ---
