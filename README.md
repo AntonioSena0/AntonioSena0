@@ -1,5 +1,5 @@
 <details open>
-<summary><b>🇧🇷 Português</b></summary>
+<summary><code><b>Portuguese Version</b></code></summary>
 
 # 👋 Olá! Eu sou o Antonio Sena
 
@@ -73,7 +73,7 @@ Sistema de autenticação focado em Engenharia de Software e Práticas de POO.
 </details>
 
 <details>
-<summary><b>🇺🇸 English</b></summary>
+<summary><code><b>English Version</b></code></summary>
 
 # 👋 Hi! I'm Antonio Sena
 
