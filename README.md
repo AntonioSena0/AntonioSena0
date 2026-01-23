@@ -57,7 +57,7 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e focado em constr
 
 ### 🌕 [Orbit](https://github.com/AntonioSena0/Orbit)
 O **Orbit** é uma aplicação Full Stack de gerenciamento de tarefas com interface inspirada na exploração espacial.
-* **Stack:** Spring Boot (Java), Next.js, TypeScript e Docker.
+* **Stack:** Spring Boot (Java), Next.js, TypeScript, Tailwind CSS e Docker.
 
 ### 🛡️ [Custos](https://github.com/AntonioSena0/Custos)
 Sistema de autenticação focado em Engenharia de Software e Práticas de POO.
