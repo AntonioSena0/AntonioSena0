@@ -1,162 +1,189 @@
 <details open>
-<summary><code><b>Portuguese Version</b></code></summary>
+<summary><b>Portuguese Version</b></summary>
 
 # 👋 Antonio Sena
 
-### Desenvolvedor Full Stack | Java • Spring Boot • React • Next.js
+### Full Stack Developer (Backend Focused)
 
-Desenvolvedor focado em construção de aplicações web escaláveis, APIs robustas e sistemas com arquitetura bem definida. Experiência prática com projetos Full Stack, autenticação segura, containerização e boas práticas de engenharia de software.
+Desenvolvedor Full Stack com foco em **backend e engenharia de APIs**, especializado na construção de aplicações web escaláveis utilizando **Java, Spring Boot e arquiteturas bem estruturadas**.
 
----
-
-## 🎯 Especialização
-
-- **Backend Engineering:** APIs RESTful com Java e Spring Boot, autenticação, validação de dados e organização em camadas.
-- **Frontend Moderno:** Interfaces performáticas utilizando React, Next.js e TypeScript.
-- **Arquitetura & Boas Práticas:** Separação de responsabilidades, organização modular, Clean Code e princípios de POO.
-- **Banco de Dados:** Modelagem relacional com PostgreSQL e MySQL.
-- **DevOps Básico:** Docker para containerização e padronização de ambientes.
-- **Automação:** Scripts e integrações utilizando Python.
+Tenho experiência prática no desenvolvimento de **sistemas completos**, desde a modelagem do banco de dados até a interface do usuário, aplicando boas práticas de engenharia de software, organização em camadas e containerização com Docker.
 
 ---
 
-## 🛠️ Stack Principal
+## Stack Principal
 
 ### Backend
-Java • Spring Boot • Laravel
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### Frontend
-React • Next.js • TypeScript • TailwindCSS  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Banco de Dados
-PostgreSQL • MySQL  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Ferramentas
-Docker • Git • n8n  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Projetos em Destaque
+# Projetos em Destaque
 
-### 🌕 Orbit
-Aplicação Full Stack de gerenciamento de tarefas.
+## Orbit
 
-**Destaques Técnicos:**
-- API REST com Spring Boot
-- Frontend com Next.js + TypeScript
-- Estrutura modular
+Plataforma Full Stack de gerenciamento de tarefas construída com arquitetura modular.
+
+### Tecnologias
+
+- Java
+- Spring Boot
+- Next.js
+- TypeScript
+- PostgreSQL
+- Docker
+
+### Destaques Técnicos
+
+- API REST estruturada
+- Autenticação segura
+- Arquitetura modular
 - Containerização com Docker
 
-🔗 Repositório:  
+🔗 Repositório  
 https://github.com/AntonioSena0/Orbit
 
 ---
 
-### 🛡️ Custos
-Sistema de autenticação focado em boas práticas de Engenharia de Software.
+## Custos
 
-**Destaques Técnicos:**
-- Organização orientada a objetos
+Sistema de autenticação e controle de usuários focado em boas práticas de engenharia de software.
+
+### Tecnologias
+
+- Java
+- Spring Boot
+- TailwindCSS
+- MySQL
+
+### Destaques Técnicos
+
+- Arquitetura orientada a objetos
 - Separação de camadas
-- Interface estruturada com TailwindCSS
+- Organização de código limpa
 
-🔗 Repositório:  
+🔗 Repositório  
 https://github.com/AntonioSena0/Custos
 
 ---
 
-## 📊 Estatísticas
+# 📫 Contato
 
-<div align="center">
-  <img width="58%" src="https://github-readme-stats-one-bice.vercel.app/api?username=AntonioSena0&show_icons=true&hide_border=true" />
-  <img width="37%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AntonioSena0&layout=compact&hide_border=true" />
-</div>
-
----
-
-## 📫 Contato
-
-LinkedIn:  
+LinkedIn  
 https://www.linkedin.com/in/antonio-sena-375496390/
 
-Email:  
+Email  
 antoniobsn2009@gmail.com
 
 </details>
 
+---
+
 <details>
-<summary><code><b>English Version</b></code></summary>
+<summary><b>English Version</b></summary>
 
 # 👋 Antonio Sena
 
-### Full Stack Developer | Java • Spring Boot • React • Next.js
+### Full Stack Developer (Backend Focused)
 
-Full Stack developer focused on building scalable web applications, robust APIs, and well-structured systems. Hands-on experience with authentication, containerization, and software engineering best practices.
+Full Stack developer focused on **backend engineering and API development**, specialized in building scalable web applications using **Java, Spring Boot and well-structured architectures**.
 
----
-
-## 🎯 Core Expertise
-
-- **Backend Engineering:** RESTful APIs with Java and Spring Boot, authentication, validation, layered architecture.
-- **Modern Frontend:** High-performance interfaces using React, Next.js, and TypeScript.
-- **Architecture & Clean Code:** Modular structure, separation of concerns, OOP principles.
-- **Databases:** Relational modeling with PostgreSQL and MySQL.
-- **DevOps Foundations:** Docker-based environment standardization.
-- **Automation:** Python-based integrations and scripting.
+I have hands-on experience developing **complete systems**, from database modeling to frontend interfaces, applying software engineering best practices, layered architecture, and containerized environments.
 
 ---
 
-## 🛠️ Main Stack
+## 🚀 Main Stack
 
-Backend:  
-Java • Spring Boot • Laravel
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-Frontend:  
-React • Next.js • TypeScript • TailwindCSS  
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-Database:  
-PostgreSQL • MySQL  
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-Tools:  
-Docker • Git • n8n  
+### Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+# Featured Projects
 
-### 🌕 Orbit
-Full Stack task management system.
+## Orbit
 
-**Technical Highlights:**
-- REST API with Spring Boot
-- Next.js + TypeScript frontend
+Full Stack task management platform built with a modular architecture.
+
+### Technologies
+
+- Java
+- Spring Boot
+- Next.js
+- TypeScript
+- PostgreSQL
+- Docker
+
+### Technical Highlights
+
+- Structured REST API
+- Secure authentication
 - Modular architecture
-- Docker containerization
+- Dockerized environment
 
-Repository:  
+Repository  
 https://github.com/AntonioSena0/Orbit
 
 ---
 
-### 🛡️ Custos
-Authentication system focused on software engineering best practices.
+## Custos
 
-**Technical Highlights:**
+Authentication and user management system focused on software engineering best practices.
+
+### Technologies
+
+- Java
+- Spring Boot
+- TailwindCSS
+- MySQL
+
+### Technical Highlights
+
 - Object-oriented design
-- Layer separation
-- Structured UI with TailwindCSS
+- Layered architecture
+- Clean code structure
 
-Repository:  
+Repository  
 https://github.com/AntonioSena0/Custos
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
-LinkedIn:  
+LinkedIn  
 https://www.linkedin.com/in/antonio-sena-375496390/
 
-Email:  
+Email  
 antoniobsn2009@gmail.com
 
 </details>
