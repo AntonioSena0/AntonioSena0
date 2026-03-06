@@ -1,94 +1,94 @@
 <details open>
 <summary><b>Portuguese Version</b></summary>
 
-# 👋 Antonio Sena
+# 👋 Antonio Sena  
+### Desenvolvedor Full Stack (focado em backend)
 
-### Full Stack Developer (Backend Focused)
-
-Desenvolvedor Full Stack com foco em **backend e engenharia de APIs**, especializado na construção de aplicações web escaláveis utilizando **Java, Spring Boot e arquiteturas bem estruturadas**.
-
-Tenho experiência prática no desenvolvimento de **sistemas completos**, desde a modelagem do banco de dados até a interface do usuário, aplicando boas práticas de engenharia de software, organização em camadas e containerização com Docker.
+Sou desenvolvedor Full Stack com foco em **engenharia de backend e APIs**, especializado na construção de aplicações web escaláveis com **Java, Spring Boot e arquiteturas bem estruturadas**. Tenho experiência prática no desenvolvimento de **sistemas completos**, desde a modelagem do banco de dados até a interface do usuário, aplicando boas práticas de engenharia de software, arquitetura em camadas, segurança com Spring Security e containerização com Docker.
 
 ---
 
 ## Stack Principal
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+### Backend  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?logo=springsecurity&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Frontend  
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=20232A)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?logo=nextdotjs&logoColor=white)
 
-### Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+### Bancos de Dados  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white)
 
-### Ferramentas
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Ferramentas  
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
 
 ---
 
 # Projetos em Destaque
 
-## Orbit
+## Orbit  
 
-Plataforma Full Stack de gerenciamento de tarefas construída com arquitetura modular.
+Plataforma **Full Stack de gerenciamento de tarefas**, projetada com arquitetura modular para facilitar evolução e manutenção do código.
 
-### Tecnologias
+### Tecnologias  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?logo=springsecurity&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=20232A)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
 
-- Java
-- Spring Boot
-- Next.js
-- TypeScript
-- PostgreSQL
-- Docker
+### Destaques Técnicos  
+- API REST bem estruturada, com padronização de endpoints e validação de dados  
+- Autenticação e autorização seguras com Spring Security e JWT  
+- Arquitetura modular, com camadas bem definidas (controller, service, repository)  
+- Ambiente totalmente containerizado com Docker e Docker Compose, facilitando desenvolvimento e deploy  
 
-### Destaques Técnicos
-
-- API REST estruturada
-- Autenticação segura
-- Arquitetura modular
-- Containerização com Docker
-
-🔗 Repositório  
-https://github.com/AntonioSena0/Orbit
-
----
-
-## Custos
-
-Sistema de autenticação e controle de usuários focado em boas práticas de engenharia de software.
-
-### Tecnologias
-
-- Java
-- Spring Boot
-- TailwindCSS
-- MySQL
-
-### Destaques Técnicos
-
-- Arquitetura orientada a objetos
-- Separação de camadas
-- Organização de código limpa
-
-🔗 Repositório  
-https://github.com/AntonioSena0/Custos
+🔗 **Repositório**  
+https://github.com/AntonioSena0/Orbit  
 
 ---
 
-# 📫 Contato
+## Custos  
 
-LinkedIn  
-https://www.linkedin.com/in/antonio-sena-375496390/
+Sistema de **autenticação e gerenciamento de usuários** focado em boas práticas de TypeScript e POO.
 
-Email  
-antoniobsn2009@gmail.com
+### Tecnologias  
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
+
+### Destaques Técnicos  
+- Arquitetura orientada a objetos, com entidades, DTOs e serviços simulados.
+- Projeto pensado para treino e práticas de TypeScript.
+
+🔗 **Repositório**  
+https://github.com/AntonioSena0/Custos  
+
+---
+
+# 📫 Contato  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-sena-375496390/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?logo=gmail&logoColor=white)](mailto:antoniobsn2009@gmail.com)
+
 
 </details>
 
@@ -99,33 +99,37 @@ antoniobsn2009@gmail.com
 
 # 👋 Antonio Sena
 
-### Full Stack Developer (Backend Focused)
+### Full Stack Developer (backend-focused)
 
-Full Stack developer focused on **backend engineering and API development**, specialized in building scalable web applications using **Java, Spring Boot and well-structured architectures**.
-
-I have hands-on experience developing **complete systems**, from database modeling to frontend interfaces, applying software engineering best practices, layered architecture, and containerized environments.
+I am a Full Stack Developer focused on **backend engineering and APIs**, specialized in building scalable web applications with **Java, Spring Boot, and well-structured architectures**. I have hands-on experience developing **complete systems**, from database modeling to user interface, applying software engineering best practices, layered architecture, security with Spring Security, and containerization with Docker.
 
 ---
 
-## 🚀 Main Stack
+## Main Stack
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?logo=springsecurity&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=20232A)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?logo=nextdotjs&logoColor=white)
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white)
 
 ### Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
 
 ---
 
@@ -133,57 +137,51 @@ I have hands-on experience developing **complete systems**, from database modeli
 
 ## Orbit
 
-Full Stack task management platform built with a modular architecture.
+**Full Stack task management platform**, designed with modular architecture to facilitate code evolution and maintenance.
 
 ### Technologies
-
-- Java
-- Spring Boot
-- Next.js
-- TypeScript
-- PostgreSQL
-- Docker
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?logo=springsecurity&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=20232A)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
 
 ### Technical Highlights
+- Well-structured REST API with standardized endpoints and data validation.
+- Secure authentication and authorization with Spring Security and JWT.
+- Modular architecture with well-defined layers (controller, service, repository).
+- Fully containerized environment with Docker and Docker Compose, making development and deployment easier.
 
-- Structured REST API
-- Secure authentication
-- Modular architecture
-- Dockerized environment
-
-Repository  
-https://github.com/AntonioSena0/Orbit
+🔗 **Repository**: [https://github.com/AntonioSena0/Orbit](https://github.com/AntonioSena0/Orbit)
 
 ---
 
 ## Custos
 
-Authentication and user management system focused on software engineering best practices.
+**Authentication and user management system** focused on TypeScript and OOP best practices.
 
 ### Technologies
-
-- Java
-- Spring Boot
-- TailwindCSS
-- MySQL
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
 
 ### Technical Highlights
+- Object-oriented architecture with entities, DTOs, and simulated services.
+- Project designed for TypeScript practice and best practices.
 
-- Object-oriented design
-- Layered architecture
-- Clean code structure
-
-Repository  
-https://github.com/AntonioSena0/Custos
+🔗 **Repository**: [https://github.com/AntonioSena0/Custos](https://github.com/AntonioSena0/Custos)
 
 ---
 
 # 📫 Contact
 
-LinkedIn  
-https://www.linkedin.com/in/antonio-sena-375496390/
-
-Email  
-antoniobsn2009@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-sena-375496390/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?logo=gmail&logoColor=white)](mailto:antoniobsn2009@gmail.com)
 
 </details>
