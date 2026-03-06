@@ -87,8 +87,6 @@ https://github.com/AntonioSena0/Custos
 # 📫 Contato  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-sena-375496390/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?logo=gmail&logoColor=white)](mailto:antoniobsn2009@gmail.com)
-
 
 </details>
 
@@ -182,6 +180,5 @@ I am a Full Stack Developer focused on **backend engineering and APIs**, special
 # 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-sena-375496390/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?logo=gmail&logoColor=white)](mailto:antoniobsn2009@gmail.com)
 
 </details>
