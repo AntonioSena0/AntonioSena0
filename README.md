@@ -63,32 +63,11 @@ https://github.com/AntonioSena0/Orbit
 
 ---
 
-## Custos  
-
-Sistema de **autenticação e gerenciamento de usuários** focado em boas práticas de TypeScript e POO.
-
-### Tecnologias  
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?logo=tailwindcss&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
-
-### Destaques Técnicos  
-- Arquitetura orientada a objetos, com entidades, DTOs e serviços simulados.
-- Projeto pensado para treino e práticas de TypeScript.
-
-🔗 **Repositório**  
-https://github.com/AntonioSena0/Custos  
-
----
-
 # 📫 Contato  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-sena-375496390/)
 
 </details>
-
----
 
 <details>
 <summary><b>English Version</b></summary>
@@ -152,24 +131,6 @@ I am a Full Stack Developer focused on **backend engineering and APIs**, special
 - Fully containerized environment with Docker and Docker Compose, making development and deployment easier.
 
 🔗 **Repository**: [https://github.com/AntonioSena0/Orbit](https://github.com/AntonioSena0/Orbit)
-
----
-
-## Custos
-
-**Authentication and user management system** focused on TypeScript and OOP best practices.
-
-### Technologies
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?logo=tailwindcss&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
-
-### Technical Highlights
-- Object-oriented architecture with entities, DTOs, and simulated services.
-- Project designed for TypeScript practice and best practices.
-
-🔗 **Repository**: [https://github.com/AntonioSena0/Custos](https://github.com/AntonioSena0/Custos)
 
 ---
 
