@@ -4,7 +4,8 @@
 # 👋 Antonio Sena  
 ### Desenvolvedor Full Stack (focado em backend)
 
-Sou desenvolvedor Full Stack com foco em **engenharia de backend e APIs**, especializado na construção de aplicações web escaláveis com **Java, Spring Boot e arquiteturas bem estruturadas**. Tenho experiência prática no desenvolvimento de **sistemas completos**, desde a modelagem do banco de dados até a interface do usuário, aplicando boas práticas de engenharia de software, arquitetura em camadas, segurança com Spring Security e containerização com Docker.
+Olá, eu sou o Antonio, sou um **desenvolvedor back-end** em formação com experiência de desenvolvimento em **Java, Spring Boot e Docker** que gosta estudar fundamentos e o porquê das coisas, já que, _"framework muda, mas a lógica não"_.
+Estudo atualmente na ETEC e produzo projetos com base em tudo o que aprendo, tanto na Etec quando fora dela.
 
 ---
 
@@ -76,7 +77,7 @@ https://github.com/AntonioSena0/Orbit
 
 ### Full Stack Developer (backend-focused)
 
-I am a Full Stack Developer focused on **backend engineering and APIs**, specialized in building scalable web applications with **Java, Spring Boot, and well-structured architectures**. I have hands-on experience developing **complete systems**, from database modeling to user interface, applying software engineering best practices, layered architecture, security with Spring Security, and containerization with Docker.
+Hello, I'm Antonio. I am a **back-end developer** in training with experience in **Java, Spring Boot, and Docker**. I enjoy studying the fundamentals and the "why" behind things, since _"frameworks change, but logic doesn't"_. I currently study at ETEC and build projects based on everything I learn, both inside and outside the classroom.
 
 ---
 
