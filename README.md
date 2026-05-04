@@ -14,7 +14,6 @@ Estudo atualmente na ETEC e produzo projetos com base em tudo o que aprendo, tan
 ### Backend  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?logo=springsecurity&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
 
@@ -43,7 +42,6 @@ Plataforma **Full Stack de gerenciamento de tarefas**, projetada com arquitetura
 ### Tecnologias  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?logo=springsecurity&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=20232A)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?logo=nextdotjs&logoColor=white)
