@@ -87,9 +87,8 @@ Hello, I'm Antonio. I am a **back-end developer** in training with experience in
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
 
 ### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=20232A)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=20232A)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?logo=tailwindcss&logoColor=white)
 
