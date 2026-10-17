@@ -29,6 +29,8 @@ Olá, sou Antonio, estudante de Desenvolvimento de Sistemas na ETEC da Zona Lest
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
 
+---
+
 # 📫 Contato  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-sena-neto/)
@@ -66,6 +68,8 @@ Hello, I'm Antonio. I’m a **back-end** developer focused on **Java** and **Spr
 ### Tools
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
+
+---
 
 # 📫 Contact
 
